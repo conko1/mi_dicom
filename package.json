@@ -7,6 +7,12 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "bootstrap": "^5.3.3",
+    "cornerstone-core": "^2.6.1",
+    "cornerstone-tools": "^6.0.10",
+    "cornerstone-wado-image-loader": "^4.13.2",
+    "dicom-parser": "^1.8.21",
+    "firebase": "^11.0.1",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3",
     "vuex": "^4.0.0"
