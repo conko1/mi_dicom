@@ -1,5 +1,9 @@
 # dicom-reader
 
+## Live demo
+
+https://dicom-display-mi.web.app/
+
 ## Project setup
 ```
 npm install
